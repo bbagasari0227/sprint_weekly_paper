@@ -4,12 +4,11 @@
 
 ## 1. WEEK2
 - [결측값 처리 전략](./week2/weekly_paper_2-1.md)
-- [바로가기](./eda/eda_checklist.md)
+- [잘못된 차트 사례](./week2/weekly_paper_2-.md)
 
-## 2. 데이터 시각화
-- 잘못된 차트 선택 사례 분석
-- [바로가기](./visualization/chart_misleading_case.md)
+## 2. WEEK3
+- [EDA 체크리스트](./week3/weekly_paper_3-1.md)
+- [Tableau 인터랙티브 대시보드 활용 사례](./week3/weekly_paper_3-2.md)
 
-## 3. Tableau 대시보드
-- 인터랙티브 분석 설계
-- [바로가기](./tableau/interactive_dashboard.md)
+## 3. WEEK7
+- [SQL 및 지표 설계](./week7/weekly_paper_7.md)
