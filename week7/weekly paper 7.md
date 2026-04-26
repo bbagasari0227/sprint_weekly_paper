@@ -28,8 +28,7 @@
 ```sql
 SELECT *
 FROM patients p
-INNER JOIN visits v
-ON p.patient_id = v.patient_id;
+INNER JOIN visits v ON p.patient_id = v.patient_id;
 ```
 
 #### 특징
@@ -45,8 +44,7 @@ ON p.patient_id = v.patient_id;
 ```sql
 SELECT *
 FROM patients p
-LEFT JOIN visits v
-ON p.patient_id = v.patient_id;
+LEFT JOIN visits v ON p.patient_id = v.patient_id;
 ```
 
 #### 특징
